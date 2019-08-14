@@ -37,7 +37,7 @@ nav {
   }
 }
 ```
-# Fabian Florez Lozano
+# Fabian Florez 
 
 ## Install Sass
 
